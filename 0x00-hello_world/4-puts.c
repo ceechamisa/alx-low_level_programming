@@ -1,2 +1,10 @@
-#!/bin/bash
-gcc 4-puts.c -o 4-puts
+#include <stdio.h>
+/**
+ * main - Entry
+ * Return: Always 0
+ */
+int main(void)
+{
+	puts("\"Programing is like building a multilingual puzzle");
+	return (0);
+}
